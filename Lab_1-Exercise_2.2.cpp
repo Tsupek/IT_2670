@@ -1,6 +1,8 @@
 // Lab_1-Exercise_2.2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+//IT 2670- Trevor Supek- S01233499
+
 #include <iostream>
 using namespace std;
 
